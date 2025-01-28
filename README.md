@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Bogor</h3>
 <img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aminrais-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Aminrais-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amin-rais-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amin-rais-dev" /> </p>
 
 - 🌱 I’m currently learning *Go Programming Language*
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-amin-rais-aa1726249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminrais-dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-amin-rais-aa1726249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amin-rais-dev" height="30" width="40" /></a>
 </p>
 
 
@@ -35,7 +35,7 @@
 ---
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminrais-dev&show_icons=true&theme=radical&locale=en" alt="alfin7007" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aminrais-dev&theme=radical&" alt="Aminrais-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amin-rais-dev&show_icons=true&theme=radical&locale=en" alt="alfin7007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-rais-dev&theme=radical&" alt="amin-rais-dev" /></p>
 </div>
 
